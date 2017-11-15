@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\bin\Debug\ok.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\bin\Debug\ok.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\bin\Debug\ok.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ok\ok\obj\Debug\ok.pdb
